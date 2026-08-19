@@ -23,6 +23,8 @@ In this repository you'll find an organ definition file (ODF) and additional fil
   * GrandOrgue
   * Sangerhausen - Hildebrandt 1728.organ
 
+ ![Folder structure](folder structure.png)
+
 * Ensure your MIDI keyboard is connected to your computer.
 
 * Start GrandOrgue
