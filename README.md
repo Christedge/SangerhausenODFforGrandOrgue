@@ -1,11 +1,13 @@
 # SangerhausenODFforGrandOrgue
-Sangerhausen ODF for GrandOrgue
+Sangerhausen ODFs for GrandOrgue
 
 ## Overview
 
 Sonus Paradisi offers a [sample set for Hauptwerk](https://www.sonusparadisi.cz/en/organs/germany/sangerhausen-zacharias-hildebrandt-organ.html) of the organ of the Jacobikirche, Sangerhausen. "It was built by Zacharias Hildebrandt (1688-1757), who was a pupil of G. Silbermann and a contemporary of Johann Sebastian Bach.". Hence the sample set is very useful to practise works of masters of that time.
 
 In this repository you'll find an organ definition file (ODF) and additional files so you can use the sample set with [Grand Orgue](https://github.com/GrandOrgue/grandorgue). It has initially been derived from the Hauptwerk ODF by using [OdfEdit](https://github.com/GrandOrgue/OdfEdit). I removed the left and right jambs (since I only use one touch screen). Since the RAM of my machine can't cope with the full surround sample set, I disabled the rear channel samples and as a consequence, removed the channel mixer panel.
+
+The file »Sangerhausen - Hildebrandt (1728) - diffuse samples only« contains a further reduced ODF. From the original four channels Direct, Distant, Diffuse, and Rear, only Diffuse is left in the ODF. This way, I was able to (manually) remove the samples of the Direct, Distant, and Rear channels, freeing up more than 40 GB of SSD space.
 
 ## Installation
 
